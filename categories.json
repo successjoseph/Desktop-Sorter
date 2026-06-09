@@ -1,0 +1,9 @@
+{
+    "Audio": ["mp3", "m4a", "wav", "ogg", "flac", "aac"],
+    "Pictures": ["jpg", "jpeg", "png", "gif", "bmp", "webp", "svg", "tiff"],
+    "Videos": ["mp4", "mkv", "avi", "mov", "wmv", "flv", "webm"],
+    "Apps": ["lnk", "url", "exe", "msi", "bat"],
+    "Scripts": ["py", "html", "css", "json", "js", "ts", "cpp", "c", "java", "sh", "php", "rb", "r"],
+    "Documents": ["pdf", "doc", "docx", "txt", "rtf", "xlsx", "pptx", "csv"],
+    "Archives": ["zip", "rar", "7z", "tar", "gz"]
+}
